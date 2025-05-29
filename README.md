@@ -86,13 +86,14 @@ Write a C program to perform addition and subtraction of two numbers using funct
 
 ## PROGRAM:
 
-![image](https://github.com/user-attachments/assets/aec4810f-9368-44dc-8ebb-3236ceabb384)
+![image](https://github.com/user-attachments/assets/08dea368-66e2-4259-8382-a8553eb0b39b)
+
 
 
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/d5efc9bb-0de4-46f4-82e6-1fa16a812bde)
+![image](https://github.com/user-attachments/assets/fc344923-d730-49eb-8dac-0c430da55307)
 
 
 
