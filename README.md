@@ -160,13 +160,15 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
-![image](https://github.com/user-attachments/assets/b3a19918-6c02-46f7-a442-7113f7900d7e)
+![image](https://github.com/user-attachments/assets/469fb50b-5e42-4df1-b214-02ec64018f68)
+
 
 
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ee8b5d5c-47ab-4195-9159-91f4096a587d)
+![image](https://github.com/user-attachments/assets/06a3c899-cafe-49a7-b0d7-8727ca6a25d5)
+
 
 
 ## RESULT:
